@@ -1,6 +1,7 @@
 nums = [10,2,3,4]
 result = []
 
+
 p = 1
 
 for i in range(0,len(nums)):
